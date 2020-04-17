@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Ronaldo - Free Bootstrap 4 Template by Colorlib</title>
+    <title>Daewon's Profile</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -27,7 +27,7 @@
 	  
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html"><span>R</span>onaldo</a>
+	      <a class="navbar-brand" href="index.html"><span>D</span>aewon</a>
 	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -51,13 +51,13 @@
         <div class="row no-gutters slider-text js-fullheight justify-content-center align-items-center">
           <div class="col-lg-8 col-md-6 ftco-animate d-flex align-items-center">
           	<div class="text text-center">
-          		<span class="subheading">Hey! I am</span>
-		  				<h1>Ronaldo Fredrickson</h1>
+          		<span class="subheading">Hello! I am</span>
+		  				<h1>Daewon Seo</h1>
 			  				<h2>I'm a 
 								  <span
 								     class="txt-rotate"
 								     data-period="2000"
-								     data-rotate='[ "Web Designer.", "Developer.", "Photographer.", "Marketer.", "Blogger" ]'></span>
+								     data-rotate='["Developer.", "Blogger" ]'></span>
 								</h2>
 							</div>
             </div>
@@ -77,7 +77,7 @@
     			<div class="col-md-6 col-lg-6 d-flex">
     				<div class="img-about img d-flex align-items-stretch">
     					<div class="overlay"></div>
-	    				<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/about.jpg);">
+	    				<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/Daewon.jpg);">
 	    				</div>
     				</div>
     			</div>
@@ -88,22 +88,22 @@
 		            <h2 class="mb-4">About Me</h2>
 		            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
 		            <ul class="about-info mt-4 px-md-0 px-2">
-		            	<li class="d-flex"><span>Name:</span> <span>Ronaldo Fredrickson</span></li>
-		            	<li class="d-flex"><span>Date of birth:</span> <span>November 28, 1989</span></li>
-		            	<li class="d-flex"><span>Address:</span> <span>San Francisco CA 97987 USA</span></li>
-		            	<li class="d-flex"><span>Zip code:</span> <span>1000</span></li>
-		            	<li class="d-flex"><span>Email:</span> <span>ronaldo@gmail.com</span></li>
-		            	<li class="d-flex"><span>Phone: </span> <span>+1-2234-5678-9-0</span></li>
+		            	<li class="d-flex"><span>Name:</span> <span>Daewon Seo</span></li>
+		            	<li class="d-flex"><span>Date of birth:</span> <span>September 17, 1990</span></li>
+		            	<li class="d-flex"><span>Address:</span> <span>58, Convensia-daero 130beon-gil, Yeonsu-gu, Incheon, Republic of Korea</span></li>
+		            	<li class="d-flex"><span>Zip code:</span> <span>22003</span></li>
+		            	<li class="d-flex"><span>Email:</span> <span>wilshere917@gmail.com</span></li>
+		            	<li class="d-flex"><span>Phone: </span> <span>+82 010-3787-8559</span></li>
 		            </ul>
 		          </div>
 		        </div>
 	          <div class="counter-wrap ftco-animate d-flex mt-md-3">
               <div class="text">
               	<p class="mb-4">
-	                <span class="number" data-number="120">0</span>
+	                <span class="number" data-number="5">0</span>
 	                <span>Project complete</span>
                 </p>
-                <p><a href="#" class="btn btn-primary py-3 px-3">Download CV</a></p>
+                <!-- <p><a href="#" class="btn btn-primary py-3 px-3">Download CV</a></p> -->
               </div>
 	          </div>
 	        </div>
@@ -115,20 +115,23 @@
     	<div class="container">
     		<div class="row">
     			<div class="col-sm ftco-animate">
-    				<a href="#" class="partner"><img src="images/partner-1.png" class="img-fluid" alt="Colorlib Template"></a>
+    				<a href="#" class="partner"><img src="images/java.png" class="img-fluid" alt="Colorlib Template"></a>
     			</div>
     			<div class="col-sm ftco-animate">
-    				<a href="#" class="partner"><img src="images/partner-2.png" class="img-fluid" alt="Colorlib Template"></a>
+    				<a href="#" class="partner"><img src="images/hjc.jpg" class="img-fluid" alt="Colorlib Template"></a>
     			</div>
-    			<div class="col-sm ftco-animate">
-    				<a href="#" class="partner"><img src="images/partner-3.png" class="img-fluid" alt="Colorlib Template"></a>
-    			</div>
-    			<div class="col-sm ftco-animate">
-    				<a href="#" class="partner"><img src="images/partner-4.png" class="img-fluid" alt="Colorlib Template"></a>
-    			</div>
-    			<div class="col-sm ftco-animate">
-    				<a href="#" class="partner"><img src="images/partner-5.png" class="img-fluid" alt="Colorlib Template"></a>
-    			</div>
+				<div class="col-sm ftco-animate">
+    				<a href="#" class="partner"><img src="images/spring.png" class="img-fluid" alt="Colorlib Template"></a>
+				</div>
+				<div class="col-sm ftco-animate">
+    				<a href="#" class="partner"><img src="images/oracle.png" class="img-fluid" alt="Colorlib Template"></a>
+				</div>
+				<div class="col-sm ftco-animate">
+    				<a href="#" class="partner"><img src="images/mysql.jpg" class="img-fluid" alt="Colorlib Template"></a>
+				</div>
+				<div class="col-sm ftco-animate">
+    				<a href="#" class="partner"><img src="images/python.png" class="img-fluid" alt="Colorlib Template"></a>
+				</div>
     		</div>
     	</div>
     </section>
@@ -148,50 +151,30 @@
 					</div>
 					<div class="col-md-9">
 					  <div id="page-1" class= "page one">
-					  	<h2 class="heading">Education</h2>
+						  <h2 class="heading">Education</h2>
+						  
+						  <div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2019-2020</span>
+		    					<h2>Java&Python Based Application software Developer Course</h2>
+		    					<span class="position">SIST(Ssangyong Institute of System Technology)</span>
+		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+		    				</div>
+							</div>
+							
 					    <div class="resume-wrap d-flex ftco-animate">
 					    	<div class="icon d-flex align-items-center justify-content-center">
 					    		<span class="flaticon-ideas"></span>
 					    	</div>
 					    	<div class="text pl-3">
-		    					<span class="date">2014-2015</span>
-		    					<h2>Bachelor of Science in Computer Science</h2>
-		    					<span class="position">Cambridge University</span>
+		    					<span class="date">2009-2017</span>
+		    					<h2>Bachelor of Arts in Economics</h2>
+		    					<span class="position">Inha University</span>
 		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
 	    					</div>
-	    				</div>
-	    				<div class="resume-wrap d-flex ftco-animate">
-	    					<div class="icon d-flex align-items-center justify-content-center">
-					    		<span class="flaticon-ideas"></span>
-					    	</div>
-					    	<div class="text pl-3">
-		    					<span class="date">2014-2015</span>
-		    					<h2>Computer Processing Systems/Computer Software</h2>
-		    					<span class="position">Cambridge University</span>
-		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-		    				</div>
-	    				</div>
-	    				<div class="resume-wrap d-flex ftco-animate">
-	    					<div class="icon d-flex align-items-center justify-content-center">
-					    		<span class="flaticon-ideas"></span>
-					    	</div>
-					    	<div class="text pl-3">
-		    					<span class="date">2014-2015</span>
-		    					<h2>Diploma in Computer</h2>
-		    					<span class="position">Cambridge University</span>
-		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-		    				</div>
-	    				</div>
-	    				<div class="resume-wrap d-flex ftco-animate">
-	    					<div class="icon d-flex align-items-center justify-content-center">
-					    		<span class="flaticon-ideas"></span>
-					    	</div>
-					    	<div class="text pl-3">
-		    					<span class="date">2014-2015</span>
-		    					<h2>Art &amp; Creative Director</h2>
-		    					<span class="position">Cambridge University</span>
-		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-		    				</div>
 	    				</div>
 					  </div>
 
