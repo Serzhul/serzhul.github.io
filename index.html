@@ -37,7 +37,7 @@
 	          <li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
 	          <li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
 	          <li class="nav-item"><a href="#resume-section" class="nav-link"><span>Resume</span></a></li>
-	          <li class="nav-item"><a href="#services-section" class="nav-link"><span>Services</span></a></li>
+	          <!-- <li class="nav-item"><a href="#services-section" class="nav-link"><span>Services</span></a></li> -->
 	          <li class="nav-item"><a href="#projects-section" class="nav-link"><span>Projects</span></a></li>
 	          <li class="nav-item"><a href="#blog-section" class="nav-link"><span>My Blog</span></a></li>
 	          <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
@@ -100,7 +100,7 @@
 	          <div class="counter-wrap ftco-animate d-flex mt-md-3">
               <div class="text">
               	<p class="mb-4">
-	                <span class="number" data-number="5">0</span>
+	                <span class="number" data-number="6">0</span>
 	                <span>Project complete</span>
                 </p>
                 <!-- <p><a href="#" class="btn btn-primary py-3 px-3">Download CV</a></p> -->
@@ -145,7 +145,7 @@
 					      <li><a href="#page-1">Education</a></li>
 					      <li><a href="#page-2">Experience</a></li>
 					      <li><a href="#page-3">Skills</a></li>
-					      <li><a href="#page-4">Awards</a></li>
+					      <!-- <li><a href="#page-4">Awards</a></li> -->
 					    </ul>
 					  </nav>
 					</div>
@@ -185,77 +185,23 @@
 					    		<span class="flaticon-ideas"></span>
 					    	</div>
 					    	<div class="text pl-3">
-		    					<span class="date">2014-2015</span>
-		    					<h2>Software Developer</h2>
-		    					<span class="position">Cambridge University</span>
-		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-		    				</div>
-	    				</div>
-	    				<div class="resume-wrap d-flex ftco-animate">
-	    					<div class="icon d-flex align-items-center justify-content-center">
-					    		<span class="flaticon-ideas"></span>
-					    	</div>
-					    	<div class="text pl-3">
-		    					<span class="date">2014-2015</span>
-		    					<h2>Web Designer</h2>
-		    					<span class="position">Cambridge University</span>
-		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-		    				</div>
-	    				</div>
-	    				<div class="resume-wrap d-flex ftco-animate">
-	    					<div class="icon d-flex align-items-center justify-content-center">
-					    		<span class="flaticon-ideas"></span>
-					    	</div>
-					    	<div class="text pl-3">
-		    					<span class="date">2014-2015</span>
-		    					<h2>Web Marketing</h2>
-		    					<span class="position">Cambridge University</span>
-		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-		    				</div>
-	    				</div>
-	    				<div class="resume-wrap d-flex ftco-animate">
-	    					<div class="icon d-flex align-items-center justify-content-center">
-					    		<span class="flaticon-ideas"></span>
-					    	</div>
-					    	<div class="text pl-3">
-		    					<span class="date">2014-2015</span>
-		    					<h2>Art &amp; Creative Director</h2>
-		    					<span class="position">Side Tech</span>
-		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-		    				</div>
-	    				</div>
-	    				<div class="resume-wrap d-flex ftco-animate">
-	    					<div class="icon d-flex align-items-center justify-content-center">
-					    		<span class="flaticon-ideas"></span>
-					    	</div>
-					    	<div class="text pl-3">
-		    					<span class="date">2014-2015</span>
-		    					<h2>Wordpress Developer</h2>
-		    					<span class="position">Cambridge University</span>
-		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-		    				</div>
-	    				</div>
-	    				<div class="resume-wrap d-flex ftco-animate">
-	    					<div class="icon d-flex align-items-center justify-content-center">
-					    		<span class="flaticon-ideas"></span>
-					    	</div>
-					    	<div class="text pl-3">
 		    					<span class="date">2017-2018</span>
-		    					<h2>UI/UX Designer</h2>
-		    					<span class="position">Cambridge University</span>
-		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+		    					<h2>Senior Staff of Compenasation and rehabilitation department</h2>
+		    					<span class="position">Korea Labor Walfare Corporation</span>
+		    					<p>Korea Labor Walfare Corporation is one of the affiliated organizations of Ministry of Employment and Labor.
+									and I was in charge of Compensation and rehabilitation of Industrial Accident.  </p>
 		    				</div>
 	    				</div>
-					  </div>
+
 					  <div id="page-3" class= "page three">
 					  	<h2 class="heading">Skills</h2>
-					  	<div class="row progress-circle mb-5">
+					  	<!-- <div class="row progress-circle mb-5">
 					  		<div class="col-lg-4 mb-4">
 						      <div class="bg-white rounded-lg shadow p-4">
-						        <h2 class="h5 font-weight-bold text-center mb-4">CSS</h2>
+						        <h2 class="h5 font-weight-bold text-center mb-4">CSS</h2> -->
 
 						        <!-- Progress bar 1 -->
-						        <div class="progress mx-auto" data-value='90'>
+						        <!-- <div class="progress mx-auto" data-value='90'>
 						          <span class="progress-left">
                         <span class="progress-bar border-primary"></span>
 						          </span>
@@ -269,24 +215,24 @@
 						        <!-- END -->
 
 						        <!-- Demo info -->
-						        <div class="row text-center mt-4">
+						        <!-- <div class="row text-center mt-4">
 						          <div class="col-6 border-right">
 						            <div class="h4 font-weight-bold mb-0">28%</div><span class="small text-gray">Last week</span>
 						          </div>
 						          <div class="col-6">
 						            <div class="h4 font-weight-bold mb-0">60%</div><span class="small text-gray">Last month</span>
 						          </div>
-						        </div>
+						        </div> -->
 						        <!-- END -->
-						      </div>
-						    </div>
-
+						      <!-- </div>
+						    </div> -->
+<!-- 
 						    <div class="col-lg-4 mb-4">
 						      <div class="bg-white rounded-lg shadow p-4">
-						        <h2 class="h5 font-weight-bold text-center mb-4">HTML</h2>
+						        <h2 class="h5 font-weight-bold text-center mb-4">HTML</h2> -->
 
 						        <!-- Progress bar 1 -->
-						        <div class="progress mx-auto" data-value='80'>
+						        <!-- <div class="progress mx-auto" data-value='80'>
 						          <span class="progress-left">
                         <span class="progress-bar border-primary"></span>
 						          </span>
@@ -296,28 +242,28 @@
 						          <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
 						            <div class="h2 font-weight-bold">80<sup class="small">%</sup></div>
 						          </div>
-						        </div>
+						        </div> -->
 						        <!-- END -->
 
 						        <!-- Demo info -->
-						        <div class="row text-center mt-4">
+						        <!-- <div class="row text-center mt-4">
 						          <div class="col-6 border-right">
 						            <div class="h4 font-weight-bold mb-0">28%</div><span class="small text-gray">Last week</span>
 						          </div>
 						          <div class="col-6">
 						            <div class="h4 font-weight-bold mb-0">60%</div><span class="small text-gray">Last month</span>
 						          </div>
-						        </div>
+						        </div> -->
 						        <!-- END -->
-						      </div>
+						      <!-- </div>
 						    </div>
 
 						    <div class="col-lg-4 mb-4">
 						      <div class="bg-white rounded-lg shadow p-4">
-						        <h2 class="h5 font-weight-bold text-center mb-4">jQuery</h2>
+						        <h2 class="h5 font-weight-bold text-center mb-4">jQuery</h2> -->
 
 						        <!-- Progress bar 1 -->
-						        <div class="progress mx-auto" data-value='75'>
+						        <!-- <div class="progress mx-auto" data-value='75'>
 						          <span class="progress-left">
                         <span class="progress-bar border-primary"></span>
 						          </span>
@@ -327,41 +273,41 @@
 						          <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
 						            <div class="h2 font-weight-bold">75<sup class="small">%</sup></div>
 						          </div>
-						        </div>
+						        </div> -->
 						        <!-- END -->
 
 						        <!-- Demo info -->
-						        <div class="row text-center mt-4">
+						        <!-- <div class="row text-center mt-4">
 						          <div class="col-6 border-right">
 						            <div class="h4 font-weight-bold mb-0">28%</div><span class="small text-gray">Last week</span>
 						          </div>
 						          <div class="col-6">
 						            <div class="h4 font-weight-bold mb-0">60%</div><span class="small text-gray">Last month</span>
 						          </div>
-						        </div>
+						        </div> -->
 						        <!-- END -->
-						      </div>
+						      <!-- </div>
 						    </div>
-					  	</div>
+					  	</div> -->
 					  	<div class="row">
 					  		<div class="col-md-6 animate-box">
 									<div class="progress-wrap ftco-animate">
-										<h3>Photoshop</h3>
+										<h3>Java</h3>
 										<div class="progress">
 										 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="90"
-										  	aria-valuemin="0" aria-valuemax="100" style="width:90%">
-										    <span>90%</span>
+										  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
+										    <span>70%</span>
 										  	</div>
 										</div>
 									</div>
 								</div>
 								<div class="col-md-6 animate-box">
 									<div class="progress-wrap ftco-animate">
-										<h3>jQuery</h3>
+										<h3>Python</h3>
 										<div class="progress">
 										 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="85"
-										  	aria-valuemin="0" aria-valuemax="100" style="width:85%">
-										    <span>85%</span>
+										  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
+										    <span>70%</span>
 										  	</div>
 										</div>
 									</div>
@@ -390,7 +336,7 @@
 								</div>
 								<div class="col-md-6 animate-box">
 									<div class="progress-wrap ftco-animate">
-										<h3>WordPress</h3>
+										<h3>Javascript</h3>
 										<div class="progress">
 										 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
 										  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
@@ -401,18 +347,18 @@
 								</div>
 								<div class="col-md-6 animate-box">
 									<div class="progress-wrap ftco-animate">
-										<h3>SEO</h3>
+										<h3>Spring Framework</h3>
 										<div class="progress">
 										 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
-										  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
-										    <span>80%</span>
+										  	aria-valuemin="0" aria-valuemax="100" style="width:60%">
+										    <span>60%</span>
 										  	</div>
 										</div>
 									</div>
 								</div>
 					  	</div>
 					  </div>
-					  <div id="page-4" class= "page four">
+					  <!-- <div id="page-4" class= "page four">
 					    <h2 class="heading">Awards</h2>
 					    <div class="resume-wrap d-flex ftco-animate">
 					    	<div class="icon d-flex align-items-center justify-content-center">
@@ -458,13 +404,13 @@
 		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
 		    				</div>
 	    				</div>
-					  </div>
+					  </div> -->
 					</div>
 			  </div>
     	</div>
     </section>
 
-    <section class="ftco-section" id="services-section">
+    <!-- <section class="ftco-section" id="services-section">
     	<div class="container-fluid px-md-5">
     		<div class="row justify-content-center py-5 mt-5">
           <div class="col-md-12 heading-section text-center ftco-animate">
@@ -543,7 +489,7 @@
 					</div>
 				</div>
     	</div>
-    </section>
+    </section> -->
  
 
     <section class="ftco-section ftco-project" id="projects-section">
@@ -551,63 +497,36 @@
     		<div class="row no-gutters justify-content-center pb-5">
           <div class="col-md-12 heading-section text-center ftco-animate">
           	<h1 class="big big-2">Projects</h1>
-            <h2 class="mb-4">Our Projects</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+            <h2 class="mb-4">My Projects</h2>
+            <p>These are just beginning, I will prove that I'm growing everyday.</p>
           </div>
         </div>
     		<div class="row no-gutters">
     			<div class="col-md-4">
-    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-1.jpg);">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/RussianChess.jpg);">
     					<div class="overlay"></div>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="images/russianchess.pdf">RussianChess(Gobblet Gobblers)</a></h3>
+	    					<span>Java NetworkProject</span>
 	    				</div>
     				</div>
   				</div>
   				<div class="col-md-4">
-    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-2.jpg);">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/jsppro.png);">
     					<div class="overlay"></div>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="images/Groupware.pdf">JSP &amp; GroupWare System</a></h3>
+	    					<span>JSP Project</span>
 	    				</div>
     				</div>
   				</div>
 
     			<div class="col-md-4">
-    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-3.jpg);">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/springbooks.png);">
     					<div class="overlay"></div>
 	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
-	    				</div>
-    				</div>
-    			</div>
-    			<div class="col-md-4">
-    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-4.jpg);">
-    					<div class="overlay"></div>
-	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
-	    				</div>
-    				</div>
-    			</div>
-    			<div class="col-md-4">
-    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-5.jpg);">
-    					<div class="overlay"></div>
-	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
-	    				</div>
-    				</div>
-    			</div>
-    			<div class="col-md-4">
-    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-6.jpg);">
-    					<div class="overlay"></div>
-	    				<div class="text text-center p-4">
-	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
-	    					<span>Web Design</span>
+	    					<h3><a href="https://github.com/Serzhul/SpringProject">E-Book  &amp; E-Book Webpage</a></h3>
+	    					<span>Spring Project</span>
 	    				</div>
     				</div>
     			</div>
@@ -615,7 +534,7 @@
     	</div>
     </section>
 
-    <section class="ftco-section ftco-no-pt ftco-no-pb ftco-counter img" id="section-counter">
+    <!-- <section class="ftco-section ftco-no-pt ftco-no-pb ftco-counter img" id="section-counter">
     	<div class="container-fluid px-md-5">
 				<div class="row d-md-flex align-items-center">
           <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
@@ -731,7 +650,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 
     <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
       <div class="container">
@@ -751,7 +670,7 @@
           		</div>
           		<div>
 	          		<h3 class="mb-4">Address</h3>
-		            <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+		            <p>58, Convensia-daero 130beon-gil, Yeonsu-gu, Incheon, Republic of Korea</p>
 		          </div>
 	          </div>
           </div>
@@ -762,7 +681,7 @@
           		</div>
           		<div>
 	          		<h3 class="mb-4">Contact Number</h3>
-		            <p><a href="tel://1234567920">+ 1235 2355 98</a></p>
+		            <p><a href="tel://010-3787-8559">+82 010-3787-8559</a></p>
 	            </div>
 	          </div>
           </div>
@@ -773,7 +692,7 @@
           		</div>
           		<div>
 	          		<h3 class="mb-4">Email Address</h3>
-		            <p><a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+		            <p><a href="mailto:sdwzzng@naver.com">sdwzzng@naver.com</a></p>
 		          </div>
 	          </div>
           </div>
@@ -784,13 +703,13 @@
           		</div>
           		<div>
 	          		<h3 class="mb-4">Website</h3>
-		            <p><a href="#">yoursite.com</a></p>
+		            <p><a href="https://github.com/Serzhul">https://github.com/Serzhul</a></p>
 	            </div>
 	          </div>
           </div>
         </div>
 
-        <div class="row no-gutters block-9">
+        <!-- <div class="row no-gutters block-9">
           <div class="col-md-6 order-md-last d-flex">
             <form action="#" class="bg-light p-4 p-md-5 contact-form">
               <div class="form-group">
@@ -817,7 +736,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 		
 
     <footer class="ftco-footer ftco-section">
@@ -826,7 +745,8 @@
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">About</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+              <p>Believe me, I'm always ready to move forward.
+				  I'd like to show you How much I'm passionating to my work </p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -840,13 +760,13 @@
               <ul class="list-unstyled">
                 <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
                 <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
-                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Services</a></li>
+                <!-- <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Services</a></li> -->
                 <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Projects</a></li>
                 <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
               </ul>
             </div>
           </div>
-          <div class="col-md">
+          <!-- <div class="col-md">
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Services</h2>
               <ul class="list-unstyled">
@@ -857,15 +777,15 @@
                 <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Graphic Design</a></li>
               </ul>
             </div>
-          </div>
+          </div> -->
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
             	<h2 class="ftco-heading-2">Have a Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">58, Convensia-daero 130beon-gil, Yeonsu-gu, Incheon, Republic of Korea</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+82 010 3787-8559</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">sdwzzng@naver.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
