@@ -161,7 +161,23 @@
 		    					<span class="date">2019-2020</span>
 		    					<h2>Java&Python Based Application software Developer Course</h2>
 		    					<span class="position">SIST(Ssangyong Institute of System Technology)</span>
-		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+		    					<p>
+									JAVA 
+									<br>
+									DB
+									<br>
+									JDBC
+									<br>
+									HTML 5	
+									<br>
+									JavaScript / CSS3	
+									<br>
+									Servlet/JSP
+									<br>	
+									Spring framework 4.0
+
+
+								</p>
 		    				</div>
 							</div>
 							
@@ -173,7 +189,7 @@
 		    					<span class="date">2009-2017</span>
 		    					<h2>Bachelor of Arts in Economics</h2>
 		    					<span class="position">Inha University</span>
-		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+		    					<p></p>
 	    					</div>
 	    				</div>
 					  </div>
