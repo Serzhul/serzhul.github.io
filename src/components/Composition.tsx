@@ -5,20 +5,28 @@ const Composition = () => {
     return (
         <section className="section-about" id="about-me">
             <div className="u-center-text u-margin-bottom-big">
-                <h2 className="heading-secondary">What made me Developer</h2>
+                <h2 className="heading-secondary">
+                    What kind of Developer am I?
+                </h2>
             </div>
 
             <div className="row">
                 <div className="col-1-of-2">
                     <h3 className="heading-tertiary u-margin-bottom-small">
-                        Why I fell in love with programming
+                        Love challenges, Love motivation.
                     </h3>
                     <p className="paragraph">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing
-                        elit. Eveniet suscipit eaque ipsam dolor, magni
-                        provident itaque reprehenderit quia nisi, quibusdam
-                        cumque quam ad atque ipsa molestias perspiciatis, ullam
-                        illo? Accusantium?
+                        I've been thought normal life is suit for me as I didn't
+                        know I love facing with challenges. But I finally
+                        realized that
+                    </p>
+                    <p className="paragraph">
+                        "The moments of thinking to solving problems give me
+                        chances growing me up."
+                    </p>
+                    <p className="paragraph">
+                        "The moments of solving problems give me the motivation
+                        to find new Challenges."
                     </p>
 
                     <h3 className="heading-tertiary u-margin-bottom-small">

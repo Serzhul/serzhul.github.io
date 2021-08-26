@@ -17,9 +17,7 @@ const Main = () => {
             <Featrues />
             <Projects />
             <Stories />
-            <Book />
             <Footer />
-            <Popup />
         </main>
     );
 };

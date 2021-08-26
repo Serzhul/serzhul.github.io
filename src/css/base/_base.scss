@@ -1,43 +1,45 @@
 *,
 *::after,
 *::before {
-  margin: 0;
-  padding: 0;
-  box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
 }
 
 html {
-  // This defines what 1rem is
-  // media query는 적용 순서가 중요함!!
-  font-size: 62.5%; /* 16px default  1rem = 10px; */
+    // This defines what 1rem is
+    // media query는 적용 순서가 중요함!!
+    font-size: 62.5%; /* 16px default  1rem = 10px; */
 
-  @include respond(tab-land) {
-    // width < 900 ?
-    font-size: 56.25%; // 1 rem = 9px 9/16 = 50%
-  }
+    @include respond(tab-land) {
+        // width < 900 ?
+        font-size: 56.25%; // 1 rem = 9px 9/16 = 50%
+    }
 
-  @include respond(tab-port) {
-    // width < 600
-    font-size: 50%; // 1 rem = 8px  8/16px = 50%;
-  }
+    @include respond(tab-port) {
+        // width < 600
+        font-size: 50%; // 1 rem = 8px  8/16px = 50%;
+    }
 
-  // 700px
+    // 700px
 
-  @include respond(big-desktop) {
-    font-size: 75%; // 1rem = 12, 12/16
-  }
+    @include respond(big-desktop) {
+        font-size: 75%; // 1rem = 12, 12/16
+    }
+
+    scroll-behavior: smooth;
 }
 
 body {
-  box-sizing: border-box;
-  padding: 3rem;
+    box-sizing: border-box;
+    padding: 3rem;
 
-  @include respond(tab-port) {
-    padding: 0;
-  }
+    @include respond(tab-port) {
+        padding: 0;
+    }
 }
 
 ::selection {
-  background-color: $color-primary;
-  color: $color-white;
+    background-color: $color-primary;
+    color: $color-white;
 }

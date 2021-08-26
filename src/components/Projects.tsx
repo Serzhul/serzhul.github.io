@@ -1,6 +1,6 @@
 const Projects = () => {
     return (
-        <section className="section-tours">
+        <section className="section-projects">
             <div className="u-center-text u-margin-bottom-big">
                 <h2 className="heading-secondary">Most popular tours</h2>
             </div>
@@ -14,27 +14,32 @@ const Projects = () => {
                             </div>
                             <h4 className="card__heading">
                                 <span className="card__heading-span card__heading-span--1">
-                                    The Sea Explorer
+                                    Vanilla Javascript
                                 </span>
                             </h4>
                             <div className="card__details">
                                 <ul>
-                                    <li>3 day tour</li>
-                                    <li>Up to 30 people</li>
-                                    <li>2 tour guides</li>
-                                    <li>Sleep in cozy hotels</li>
-                                    <li>Difficulty: easy</li>
+                                    <li>9 toy web projects</li>
+                                    <li>Forkify Project</li>
                                 </ul>
                             </div>
                         </div>
                         <div className="card__side card__side--back card__side--back-1">
                             <div className="card__cta">
-                                <div className="card__price-box">
-                                    <p className="card__price-only">Only</p>
-                                    <p className="card__price-value">$297</p>
+                                <div className="card__project-box">
+                                    <p className="card__project-explanation">
+                                        Only used HTML,CSS,JS
+                                    </p>
+                                    <p className="card__project-explanation">
+                                        to improve skills
+                                    </p>
+                                    {/* <p className="card__price-value">$297</p> */}
                                 </div>
-                                <a href="#popup" className="btn btn--white">
-                                    Book now!
+                                <a
+                                    href="https://adhesive-ice-cb5.notion.site/Vanilla-JS-5c63bc307eac4080af5a05645346a54d"
+                                    className="btn btn--white"
+                                >
+                                    Check now!
                                 </a>
                             </div>
                         </div>
@@ -48,27 +53,27 @@ const Projects = () => {
                             </div>
                             <h4 className="card__heading">
                                 <span className="card__heading-span card__heading-span--2">
-                                    The forest hiker
+                                    React.JS
                                 </span>
                             </h4>
                             <div className="card__details">
                                 <ul>
-                                    <li>7 day tour</li>
-                                    <li>Up to 40 people</li>
-                                    <li>6 tour guides</li>
-                                    <li>Sleep in provided tents</li>
-                                    <li>Difficulty: medium</li>
+                                    <li>Food Order App</li>
+                                    <li>Auth App</li>
+                                    <li>React Meetup</li>
                                 </ul>
                             </div>
                         </div>
                         <div className="card__side card__side--back card__side--back-2">
                             <div className="card__cta">
-                                <div className="card__price-box">
-                                    <p className="card__price-only">Only</p>
-                                    <p className="card__price-value">$497</p>
+                                <div className="card__project-box">
+                                    <p className="card__project-explanation">
+                                        ReactJS, Redux, NextJS, Typescript
+                                    </p>
+                                    {/* <p className="card__price-value">$497</p> */}
                                 </div>
                                 <a href="#popup" className="btn btn--white">
-                                    Book now!
+                                    Check now!
                                 </a>
                             </div>
                         </div>
@@ -82,27 +87,33 @@ const Projects = () => {
                             </div>
                             <h4 className="card__heading">
                                 <span className="card__heading-span card__heading-span--3">
-                                    The snow adventurer
+                                    The Blog
                                 </span>
                             </h4>
                             <div className="card__details">
                                 <ul>
-                                    <li>5 day tour</li>
-                                    <li>Up to 15 people</li>
-                                    <li>3 tour guides</li>
-                                    <li>Sleep in provided tents</li>
-                                    <li>Difficulty: hard</li>
+                                    <li>Computer Scienece</li>
+                                    <li>Career</li>
+                                    <li>DS & Algorithm</li>
                                 </ul>
                             </div>
                         </div>
                         <div className="card__side card__side--back card__side--back-3">
                             <div className="card__cta">
-                                <div className="card__price-box">
-                                    <p className="card__price-only">Only</p>
-                                    <p className="card__price-value">$792</p>
+                                <div className="card__project-box">
+                                    <p className="card__project-explanation">
+                                        Built with Gatsby
+                                    </p>
+                                    <p className="card__project-explanation">
+                                        Reocrds I've studied
+                                    </p>
+                                    {/* <p className="card__price-value">$792</p> */}
                                 </div>
-                                <a href="#popup" className="btn btn--white">
-                                    Book now!
+                                <a
+                                    href="https://serzhul.io"
+                                    className="btn btn--white"
+                                >
+                                    Check now!
                                 </a>
                             </div>
                         </div>

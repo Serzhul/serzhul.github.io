@@ -1,14 +1,6 @@
 const Header = () => {
     return (
         <header className="header">
-            <div className="hader__logo-box">
-                <img
-                    src="../../css/img/logo-white.png"
-                    alt="Logo"
-                    className="header__logo"
-                />
-            </div>
-
             <div className="header__text-box">
                 <h1 className="heading-primary">
                     <span className="heading-primary--main">Abel Seo</span>
@@ -18,7 +10,7 @@ const Header = () => {
                 </h1>
 
                 <a href="#about-me" className="btn btn--white btn--animated">
-                    Discover about him
+                    Discover Him
                 </a>
             </div>
         </header>
