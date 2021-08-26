@@ -11,7 +11,7 @@ const Composition = () => {
             <div className="row">
                 <div className="col-1-of-2">
                     <h3 className="heading-tertiary u-margin-bottom-small">
-                        You're going to fall i nlove with nature
+                        Why I fell in love with programming
                     </h3>
                     <p className="paragraph">
                         Lorem ipsum dolor sit, amet consectetur adipisicing
