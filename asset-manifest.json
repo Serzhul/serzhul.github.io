@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7025c468.chunk.css",
+    "main.js": "/static/js/main.533ab9e5.chunk.js",
+    "main.js.map": "/static/js/main.533ab9e5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7a68d9c5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7a68d9c5.js.map",
+    "static/js/2.5529e6a9.chunk.js": "/static/js/2.5529e6a9.chunk.js",
+    "static/js/2.5529e6a9.chunk.js.map": "/static/js/2.5529e6a9.chunk.js.map",
+    "static/js/3.4c55585a.chunk.js": "/static/js/3.4c55585a.chunk.js",
+    "static/js/3.4c55585a.chunk.js.map": "/static/js/3.4c55585a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7025c468.chunk.css.map": "/static/css/main.7025c468.chunk.css.map",
+    "static/js/2.5529e6a9.chunk.js.LICENSE.txt": "/static/js/2.5529e6a9.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/static/media/nat-7.167e44e4.jpg",
+    "static/media/nat-1-large.a1c1cbdb.jpg": "/static/media/nat-1-large.a1c1cbdb.jpg",
+    "static/media/nat-1.0e0a34b9.jpg": "/static/media/nat-1.0e0a34b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a68d9c5.js",
+    "static/js/2.5529e6a9.chunk.js",
+    "static/css/main.7025c468.chunk.css",
+    "static/js/main.533ab9e5.chunk.js"
+  ]
+}
