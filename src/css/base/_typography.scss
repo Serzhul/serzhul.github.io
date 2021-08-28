@@ -84,6 +84,13 @@ body {
 .paragraph {
   font-size: 1.6rem;
 
+  background-color: rgba($color-white, 0.8);
+  padding: 2.5rem;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 1.5rem 4rem rgba($color-black, 0.15);
+  transition: transform 0.3s;
+
   &:not(:last-child) {
     margin-bottom: 3rem;
   }
