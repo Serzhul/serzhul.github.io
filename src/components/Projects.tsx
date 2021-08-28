@@ -2,7 +2,7 @@ const Projects = () => {
     return (
         <section className="section-projects">
             <div className="u-center-text u-margin-bottom-big">
-                <h2 className="heading-secondary">Most popular tours</h2>
+                <h2 className="heading-secondary">My Projects</h2>
             </div>
 
             <div className="row">
@@ -60,6 +60,7 @@ const Projects = () => {
                                 <ul>
                                     <li>Food Order App</li>
                                     <li>Auth App</li>
+                                    <li>Find NPM package</li>
                                     <li>React Meetup</li>
                                 </ul>
                             </div>
@@ -123,7 +124,7 @@ const Projects = () => {
 
             <div className="u-center-text u-margin-top-huge">
                 <a href="#" className="btn btn--green">
-                    Discover all tours
+                    Check All Projects
                 </a>
             </div>
         </section>

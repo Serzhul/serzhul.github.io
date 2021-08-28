@@ -53,8 +53,15 @@ const Footer = () => {
                         >
                             Abel Seo
                         </a>
-                        . Copyright &copy; by Jonas Schmedtmann. This webpage is
-                        based on Jonas Schmedtmann CSS and Sass Lecture.
+                        . Copyright &copy; by &nbsp;
+                        <a
+                            href="https://twitter.com/jonasschmedtman"
+                            className="footer__link"
+                        >
+                            Jonas Schmedtmann
+                        </a>
+                        . This webpage is based on Jonas Schmedtmann CSS and
+                        Sass Lecture.
                     </p>
                 </div>
             </div>

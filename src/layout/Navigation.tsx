@@ -16,18 +16,18 @@ const Navigation = () => {
             <nav className="navigation__nav">
                 <ul className="navigation__list">
                     <li className="navigation__item">
-                        <a href="#" className="navigation__link">
+                        <a href="#about-me" className="navigation__link">
                             01 About Me
                         </a>
                     </li>
                     <li className="navigation__item">
-                        <a href="#" className="navigation__link">
-                            02 Your benefits
+                        <a href="#career" className="navigation__link">
+                            02 Career
                         </a>
                     </li>
                     <li className="navigation__item">
                         <a href="#" className="navigation__link">
-                            03 Popular tours
+                            03 My Projects
                         </a>
                     </li>
                     <li className="navigation__item">
@@ -36,8 +36,11 @@ const Navigation = () => {
                         </a>
                     </li>
                     <li className="navigation__item">
-                        <a href="#" className="navigation__link">
-                            05 Book now
+                        <a
+                            href="mailto:abelseo917@gmail.com"
+                            className="navigation__link"
+                        >
+                            05 Contact me
                         </a>
                     </li>
                 </ul>

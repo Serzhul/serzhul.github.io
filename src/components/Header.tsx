@@ -10,7 +10,7 @@ const Header = () => {
                 </h1>
 
                 <a href="#about-me" className="btn btn--white btn--animated">
-                    Discover Him
+                    About me
                 </a>
             </div>
         </header>
