@@ -26,7 +26,7 @@ const Composition = () => {
           </h3>
           <p className="paragraph">
             "The moments of solving problems give me the motivation to find new
-            Challenges."
+            challenges."
           </p>
 
           <h3 className="heading-tertiary u-margin-bottom-small">

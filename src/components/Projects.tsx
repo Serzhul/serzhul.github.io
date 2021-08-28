@@ -83,7 +83,7 @@ const Projects = () => {
               <div className="card__picture card__picture--3">&nbsp;</div>
               <h4 className="card__heading">
                 <span className="card__heading-span card__heading-span--3">
-                  The Blog
+                  Blog
                 </span>
               </h4>
               <div className="card__details">
