@@ -113,7 +113,10 @@ const Projects = () => {
       </div>
 
       <div className="u-center-text u-margin-top-huge">
-        <a href="#" className="btn btn--green">
+        <a
+          href="https://serzhul.github.io/Portfolio_Overview.pdf"
+          className="btn btn--green"
+        >
           Check All Projects
         </a>
       </div>
